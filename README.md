@@ -1,16 +1,7 @@
-# app1
+WeatherApp 🌦️
+A sleek and intuitive Flutter app that provides real-time weather updates for any city. Get accurate weather forecasts, beautiful animations, and a user-friendly interface all in one place. 
+Uses www.openweathermap.org api
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Feel free to customize it further to better fit your project's unique features and goals.
+**IMPORTANT**
+TO RUN :  add your api_key first in app1/lib/pages/weather_page.dart (line14)
