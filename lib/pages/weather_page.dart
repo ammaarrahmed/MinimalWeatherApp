@@ -11,7 +11,7 @@ class WeatherPage extends StatefulWidget {
 }
 
 class _WeatherPageState extends State<WeatherPage> {
-  final _weatherService = WeatherService('50ef2db51dd17e4dce5860df27593597');
+  final _weatherService = WeatherService('YOUR API_KEY');
   Weather? _weather;
   String? _errorMessage;
   final TextEditingController _cityController = TextEditingController();
